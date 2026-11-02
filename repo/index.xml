@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="icon.png" name="Noxpress" pubkey="308203343082021ca003020102020900fedb0a730125b076300d06092a864886f70d01010b05003047310b3009060355040613025553310d300b060355040a13046f724f5331143012060355040b130b456e67696e656572696e67311330110603550403130a6f724f532041646d696e3020170d3236313031323138323733385a180f32303831303731353138323733385a3047310b3009060355040613025553310d300b060355040a13046f724f5331143012060355040b130b456e67696e656572696e67311330110603550403130a6f724f532041646d696e30820122300d06092a864886f70d01010105000382010f003082010a02820101009a28d1c831c80a10c1109a201b2a653dc391194c18a51c585e6caa0064a981b4b39f09c8b7e6073fa9c5d38cb36569680f84773f4ba3fa0a77dc6d1c7fe7dc7b6b29bcce368a92dccf31327d813efc735e81dec9bd0768c4878aeef8f5b685ab9c7e7d733f7d064ff02d173cb8dfedbbb4a6ca70088dd7adef3cedc9ebb4ef35fb3dc467d464acfa74e35f17acce3b5edb252ce07daf1fd31ad2f6716d7792c6ea08cb6ac401dd4233062c040eec72d8136b880eae2ed3082a5a9fd6153548df019c1ca54eb999115996a4aa935cf86df59660835a9ac24095bacdd8c07ceda003665b12f367be225994023e79e89878f70dd3f072f357ea592e149f3f2044470203010001a321301f301d0603551d0e04160414972963b43d781af90f2fba519a6117e18251c3e3300d06092a864886f70d01010b050003820101007d7d9865b54a8a9838012dff18f651ae8aaba677bc962484c9eb207f9f261bbe197b62ebff497a78ad7bf08b8afe09d210a365e31d87e1729a662b0310f95fc65fc188fd9a7df988bba88a630f45babb3e29cdfc19a9f953db9cb8b02275dff1e12632ba44293de5f07595dbb8984703dd13779c1c5de6b58fbc83052210e322da70aae58b51cfb3f5e2904457a2a0dd5449a4b2d7f05bdd9e224695ff1fdc7cf6f6b6152c23c2d27d63ed790deb87064a5a50aa6076226d5c7c806ffa870dd3292866fd984a8f575a2938d2718f572c1d79961b3f09cf21f4b2874710e077c9f4f4faf4d1dc74819c5696d503f55b3b81a0c41d4b6c6f2fcbf24cd0d89ff310" timestamp="1793646580" url="https://koulaxizis.github.io/noxpress-fdroid/repo" version="20002">
+		<description>The public Android apps of Noxpress, the free WordPress / WooCommerce plugin suite. New versions ship as beta first. Free and open source (MIT), free forever.</description>
+	</repo>
+	<application id="tech.noxpress.liveoperator">
+		<id>tech.noxpress.liveoperator</id>
+		<added>2026-11-02</added>
+		<lastupdated>2026-11-02</lastupdated>
+		<name>Live Operator</name>
+		<summary>Answer your WordPress site's live chat from your phone</summary>
+		<desc>The live chat of your WordPress site on your phone. Live Operator is a free Noxpress plugin for PurioChat Pro: an online / offline switch kept on the server (with automatic offline and a weekly schedule), push notifications for every new request and message, and a page to claim chats, take over from the AI, reply and hand back.
+
+This app opens that page full screen, with its own icon and chat notifications that show as heads-up and light the screen. Connect it to your site once: tap «Connect the app» in the plugin's settings on the phone, or type the site's address. One app for every site; change the site from the icon's «Change site» shortcut.
+
+Needs the Live Operator plugin on the site (1.4.0+ declares the app by itself, so there is no address bar) and Chrome or another browser with Trusted Web Activities. No Firebase, no analytics.
+
+New versions ship as beta first. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Internet</categories>
+		<category>Internet</category>
+		<web>https://noxpress.tech/#live-operator-app</web>
+		<source>https://github.com/koulaxizis/noxpress/tree/main/apps/live-operator-android</source>
+		<tracker>https://github.com/koulaxizis/noxpress/issues</tracker>
+		<changelog>https://github.com/koulaxizis/noxpress/blob/main/apps/live-operator-android/CHANGELOG.md</changelog>
+		<author>Noxpress</author>
+		<donate>https://ko-fi.com/koulaxizis</donate>
+		<marketversion></marketversion>
+		<marketvercode>8</marketvercode>
+		<package>
+			<version>2.0.1</version>
+			<versioncode>8</versioncode>
+			<apkname>tech.noxpress.liveoperator_8_93793833.apk</apkname>
+			<hash type="sha256">93793833c6d23e90d01b3db490c1a4429f4fa46ea12350ffe1f62329de313fd1</hash>
+			<size>6186310</size>
+			<sdkver>28</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2026-11-02</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,TURN_SCREEN_ON,WAKE_LOCK,tech.noxpress.liveoperator.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="tech.noxpress.sitebridge">
+		<id>tech.noxpress.sitebridge</id>
+		<added>2026-11-02</added>
+		<lastupdated>2026-11-02</lastupdated>
+		<name>Site Bridge</name>
+		<summary>Open the write window of your WordPress sites with your fingerprint</summary>
+		<desc>The Site Bridge Hub in your pocket. Site Bridge is a free Noxpress plugin that lets an AI assistant work on your WordPress / WooCommerce sites, but only while a write window is open. This app opens, renews or closes that window per site with your fingerprint, and shows the Hub's log.
+
+On sites with the Noxpress Book Feed or Broadcast plugins it also has their tabs: sync, rules, ISBN scan and import as a draft, the posts waiting in the Broadcast queue, with notifications.
+
+It talks only to your own Hub. Pair it once with a QR code from the Hub; its keys stay in the Android Keystore and every request is signed, so there is no password to type or leak. No account, no Firebase, no analytics.
+
+Needs a Hub with Site Bridge 1.6.0+ over HTTPS and its App tab switched on.
+
+New versions ship as beta first. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Internet</categories>
+		<category>Internet</category>
+		<web>https://noxpress.tech/#site-bridge-app</web>
+		<source>https://github.com/koulaxizis/noxpress/tree/main/apps/site-bridge-android</source>
+		<tracker>https://github.com/koulaxizis/noxpress/issues</tracker>
+		<changelog>https://github.com/koulaxizis/noxpress/blob/main/apps/site-bridge-android/CHANGELOG.md</changelog>
+		<author>Noxpress</author>
+		<donate>https://ko-fi.com/koulaxizis</donate>
+		<marketversion></marketversion>
+		<marketvercode>11</marketvercode>
+		<antifeatures>NonFreeDep</antifeatures>
+		<package>
+			<version>1.7.1</version>
+			<versioncode>11</versioncode>
+			<apkname>tech.noxpress.sitebridge_11_fd24887b.apk</apkname>
+			<hash type="sha256">fd24887b956563629e14068f6e4580f0a980b2aab2c87592372b4f530c41e1c1</hash>
+			<size>22716513</size>
+			<sdkver>28</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2026-11-02</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,tech.noxpress.sitebridge.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
+</fdroid>

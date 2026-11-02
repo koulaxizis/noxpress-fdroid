@@ -1,0 +1,21 @@
+{
+  "apps": {
+    "tech.noxpress.liveoperator": [
+      {
+        "beta": true,
+        "tag": "nox-loa-2.0.1",
+        "url": "https://github.com/koulaxizis/noxpress/releases/download/nox-loa-2.0.1/live-operator.apk",
+        "version": "2.0.1"
+      }
+    ],
+    "tech.noxpress.sitebridge": [
+      {
+        "beta": true,
+        "tag": "nox-sba-1.7.1",
+        "url": "https://github.com/koulaxizis/noxpress/releases/download/nox-sba-1.7.1/site-bridge.apk",
+        "version": "1.7.1"
+      }
+    ]
+  },
+  "store": "863685ddf0a5d8667be71ec64b68519585b228cdc3c32fee86bd3dbe8c3643bb"
+}

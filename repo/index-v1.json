@@ -1,0 +1,193 @@
+{
+  "repo": {
+    "timestamp": 1794479580000,
+    "version": 20002,
+    "name": "Noxpress",
+    "icon": "icon.png",
+    "address": "https://koulaxizis.github.io/noxpress-fdroid/repo",
+    "description": "The public Android apps of Noxpress, the free WordPress / WooCommerce plugin suite. New versions ship as beta first. Free and open source (MIT), free forever."
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "authorName": "Noxpress",
+      "authorWebSite": "https://noxpress.tech/",
+      "categories": [
+        "Internet"
+      ],
+      "changelog": "https://github.com/koulaxizis/noxpress/blob/main/apps/live-operator-android/CHANGELOG.md",
+      "suggestedVersionCode": "8",
+      "donate": "https://ko-fi.com/koulaxizis",
+      "issueTracker": "https://github.com/koulaxizis/noxpress/issues",
+      "license": "MIT",
+      "sourceCode": "https://github.com/koulaxizis/noxpress/tree/main/apps/live-operator-android",
+      "webSite": "https://noxpress.tech/#live-operator-app",
+      "added": 1794479580000,
+      "packageName": "tech.noxpress.liveoperator",
+      "lastUpdated": 1794479580000,
+      "localized": {
+        "el": {
+          "description": "\u03a4\u03bf live chat \u03c4\u03bf\u03c5 WordPress site \u03c3\u03bf\u03c5 \u03c3\u03c4\u03bf \u03ba\u03b9\u03bd\u03b7\u03c4\u03cc. \u03a4\u03bf Live Operator \u03b5\u03af\u03bd\u03b1\u03b9 \u03b4\u03c9\u03c1\u03b5\u03ac\u03bd plugin \u03c4\u03bf\u03c5 Noxpress \u03b3\u03b9\u03b1 \u03c4\u03bf PurioChat Pro: \u03b4\u03b9\u03b1\u03ba\u03cc\u03c0\u03c4\u03b7\u03c2 online / offline \u03c0\u03bf\u03c5 \u03bc\u03ad\u03bd\u03b5\u03b9 \u03c3\u03c4\u03bf\u03bd server (\u03bc\u03b5 \u03b1\u03c5\u03c4\u03cc\u03bc\u03b1\u03c4\u03bf offline \u03ba\u03b1\u03b9 \u03b5\u03b2\u03b4\u03bf\u03bc\u03b1\u03b4\u03b9\u03b1\u03af\u03bf \u03c9\u03c1\u03ac\u03c1\u03b9\u03bf), \u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b5\u03b9\u03c2 push \u03b3\u03b9\u03b1 \u03ba\u03ac\u03b8\u03b5 \u03bd\u03ad\u03bf \u03b1\u03af\u03c4\u03b7\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03bc\u03ae\u03bd\u03c5\u03bc\u03b1, \u03ba\u03b1\u03b9 \u03c3\u03b5\u03bb\u03af\u03b4\u03b1 \u03b3\u03b9\u03b1 \u03b1\u03bd\u03ac\u03bb\u03b7\u03c8\u03b7 \u03c3\u03c5\u03bd\u03bf\u03bc\u03b9\u03bb\u03b9\u03ce\u03bd, \u03b1\u03bd\u03ac\u03bb\u03b7\u03c8\u03b7 \u03b1\u03c0\u03cc \u03c4\u03bf AI, \u03b1\u03c0\u03b1\u03bd\u03c4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03ba\u03b1\u03b9 \u03b5\u03c0\u03b9\u03c3\u03c4\u03c1\u03bf\u03c6\u03ae.\n\n\u0397 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03b1\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03b5\u03bb\u03af\u03b4\u03b1 \u03c3\u03b5 \u03c0\u03bb\u03ae\u03c1\u03b7 \u03bf\u03b8\u03cc\u03bd\u03b7, \u03bc\u03b5 \u03b4\u03b9\u03ba\u03cc \u03c4\u03b7\u03c2 \u03b5\u03b9\u03ba\u03bf\u03bd\u03af\u03b4\u03b9\u03bf \u03ba\u03b1\u03b9 \u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c3\u03c5\u03bd\u03bf\u03bc\u03b9\u03bb\u03af\u03b1\u03c2 \u03c0\u03bf\u03c5 \u03b5\u03bc\u03c6\u03b1\u03bd\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03c4\u03bf \u03c0\u03ac\u03bd\u03c9 \u03bc\u03ad\u03c1\u03bf\u03c2 \u03ba\u03b1\u03b9 \u03b1\u03bd\u03ac\u03b2\u03bf\u03c5\u03bd \u03c4\u03b7\u03bd \u03bf\u03b8\u03cc\u03bd\u03b7. \u03a4\u03b7 \u03c3\u03c5\u03bd\u03b4\u03ad\u03b5\u03b9\u03c2 \u03bc\u03af\u03b1 \u03c6\u03bf\u03c1\u03ac \u03bc\u03b5 \u03c4\u03bf site \u03c3\u03bf\u03c5: \u03c0\u03b1\u03c4\u03ac\u03c2 \u00ab\u03a3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae\u03c2\u00bb \u03c3\u03c4\u03b9\u03c2 \u03c1\u03c5\u03b8\u03bc\u03af\u03c3\u03b5\u03b9\u03c2 \u03c4\u03bf\u03c5 plugin \u03b1\u03c0\u03cc \u03c4\u03bf \u03ba\u03b9\u03bd\u03b7\u03c4\u03cc, \u03ae \u03b3\u03c1\u03ac\u03c6\u03b5\u03b9\u03c2 \u03c4\u03b7 \u03b4\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7 \u03c4\u03bf\u03c5 site. \u039c\u03af\u03b1 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03b3\u03b9\u03b1 \u03cc\u03bb\u03b1 \u03c4\u03b1 sites\u00b7 \u03b1\u03bb\u03bb\u03ac\u03b6\u03b5\u03b9\u03c2 site \u03b1\u03c0\u03cc \u03c4\u03b7 \u03c3\u03c5\u03bd\u03c4\u03cc\u03bc\u03b5\u03c5\u03c3\u03b7 \u00ab\u0391\u03bb\u03bb\u03b1\u03b3\u03ae site\u00bb \u03c4\u03bf\u03c5 \u03b5\u03b9\u03ba\u03bf\u03bd\u03b9\u03b4\u03af\u03bf\u03c5.\n\n\u03a7\u03c1\u03b5\u03b9\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03c4\u03bf plugin Live Operator \u03c3\u03c4\u03bf site (\u03c4\u03bf 1.4.0+ \u03b4\u03b7\u03bb\u03ce\u03bd\u03b5\u03b9 \u03bc\u03cc\u03bd\u03bf \u03c4\u03bf\u03c5 \u03c4\u03b7\u03bd \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae, \u03bf\u03c0\u03cc\u03c4\u03b5 \u03b4\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03b3\u03c1\u03b1\u03bc\u03bc\u03ae \u03b4\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7\u03c2) \u03ba\u03b1\u03b9 Chrome \u03ae \u03ac\u03bb\u03bb\u03bf\u03bd browser \u03bc\u03b5 Trusted Web Activities. \u03a7\u03c9\u03c1\u03af\u03c2 Firebase, \u03c7\u03c9\u03c1\u03af\u03c2 analytics.\n\n\u039f\u03b9 \u03bd\u03ad\u03b5\u03c2 \u03b5\u03ba\u03b4\u03cc\u03c3\u03b5\u03b9\u03c2 \u03b2\u03b3\u03b1\u03af\u03bd\u03bf\u03c5\u03bd \u03c0\u03c1\u03ce\u03c4\u03b1 \u03c9\u03c2 beta. \u0394\u03c9\u03c1\u03b5\u03ac\u03bd \u03ba\u03b1\u03b9 \u03b1\u03bd\u03bf\u03b9\u03c7\u03c4\u03bf\u03cd \u03ba\u03ce\u03b4\u03b9\u03ba\u03b1 (MIT), \u03b4\u03c9\u03c1\u03b5\u03ac\u03bd \u03b3\u03b9\u03b1 \u03c0\u03ac\u03bd\u03c4\u03b1.\n",
+          "name": "Live Operator",
+          "summary": "\u0391\u03c0\u03ac\u03bd\u03c4\u03b1 \u03c3\u03c4\u03bf live chat \u03c4\u03bf\u03c5 WordPress site \u03c3\u03bf\u03c5 \u03b1\u03c0\u03cc \u03c4\u03bf \u03ba\u03b9\u03bd\u03b7\u03c4\u03cc"
+        },
+        "en-US": {
+          "description": "The live chat of your WordPress site on your phone. Live Operator is a free Noxpress plugin for PurioChat Pro: an online / offline switch kept on the server (with automatic offline and a weekly schedule), push notifications for every new request and message, and a page to claim chats, take over from the AI, reply and hand back.\n\nThis app opens that page full screen, with its own icon and chat notifications that show as heads-up and light the screen. Connect it to your site once: tap \u00abConnect the app\u00bb in the plugin's settings on the phone, or type the site's address. One app for every site; change the site from the icon's \u00abChange site\u00bb shortcut.\n\nNeeds the Live Operator plugin on the site (1.4.0+ declares the app by itself, so there is no address bar) and Chrome or another browser with Trusted Web Activities. No Firebase, no analytics.\n\nNew versions ship as beta first. Free and open source (MIT), free forever.\n",
+          "icon": "icon_L0FdqXD4bs6LS2A84gX7B5LQ7d3gPPsXPiGgDtEr92U=.png",
+          "name": "Live Operator",
+          "summary": "Answer your WordPress site's live chat from your phone",
+          "whatsNew": "\u2022 Fix: the app closed as soon as a site was connected, and then on every start. The connect screen started the site's page in its own task, so the web-app launcher restarted itself, saw its first copy still open and closed. It now starts in a new task.\n\nhttps://github.com/koulaxizis/noxpress/blob/main/apps/live-operator-android/CHANGELOG.md\n"
+        }
+      }
+    },
+    {
+      "antiFeatures": [
+        "NonFreeDep"
+      ],
+      "authorName": "Noxpress",
+      "authorWebSite": "https://noxpress.tech/",
+      "categories": [
+        "Internet"
+      ],
+      "changelog": "https://github.com/koulaxizis/noxpress/blob/main/apps/site-bridge-android/CHANGELOG.md",
+      "suggestedVersionCode": "12",
+      "donate": "https://ko-fi.com/koulaxizis",
+      "issueTracker": "https://github.com/koulaxizis/noxpress/issues",
+      "license": "MIT",
+      "sourceCode": "https://github.com/koulaxizis/noxpress/tree/main/apps/site-bridge-android",
+      "webSite": "https://noxpress.tech/#site-bridge-app",
+      "added": 1794479580000,
+      "packageName": "tech.noxpress.sitebridge",
+      "lastUpdated": 1794479580000,
+      "localized": {
+        "el": {
+          "description": "\u03a4\u03bf Hub \u03c4\u03bf\u03c5 Site Bridge \u03c3\u03c4\u03b7\u03bd \u03c4\u03c3\u03ad\u03c0\u03b7 \u03c3\u03bf\u03c5. \u03a4\u03bf Site Bridge \u03b5\u03af\u03bd\u03b1\u03b9 \u03b4\u03c9\u03c1\u03b5\u03ac\u03bd plugin \u03c4\u03bf\u03c5 Noxpress \u03c0\u03bf\u03c5 \u03b1\u03c6\u03ae\u03bd\u03b5\u03b9 \u03ad\u03bd\u03b1\u03bd \u03b2\u03bf\u03b7\u03b8\u03cc AI \u03bd\u03b1 \u03b4\u03bf\u03c5\u03bb\u03b5\u03cd\u03b5\u03b9 \u03c3\u03c4\u03b1 WordPress / WooCommerce sites \u03c3\u03bf\u03c5, \u03bc\u03cc\u03bd\u03bf \u03cc\u03c3\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03bd\u03bf\u03b9\u03c7\u03c4\u03cc \u03ad\u03bd\u03b1 \u03c0\u03b1\u03c1\u03ac\u03b8\u03c5\u03c1\u03bf \u03b5\u03b3\u03b3\u03c1\u03b1\u03c6\u03ae\u03c2. \u0397 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03b1\u03bd\u03bf\u03af\u03b3\u03b5\u03b9, \u03b1\u03bd\u03b1\u03bd\u03b5\u03ce\u03bd\u03b5\u03b9 \u03ae \u03ba\u03bb\u03b5\u03af\u03bd\u03b5\u03b9 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03c0\u03b1\u03c1\u03ac\u03b8\u03c5\u03c1\u03bf \u03b1\u03bd\u03ac site \u03bc\u03b5 \u03c4\u03bf \u03b4\u03b1\u03c7\u03c4\u03c5\u03bb\u03b9\u03ba\u03cc \u03c3\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03b4\u03b5\u03af\u03c7\u03bd\u03b5\u03b9 \u03c4\u03bf \u03b9\u03c3\u03c4\u03bf\u03c1\u03b9\u03ba\u03cc \u03c4\u03bf\u03c5 Hub.\n\n\u03a3\u03b5 sites \u03bc\u03b5 \u03c4\u03b1 plugins Book Feed \u03ae Broadcast \u03c4\u03bf\u03c5 Noxpress \u03ad\u03c7\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03c4\u03b9\u03c2 \u03ba\u03b1\u03c1\u03c4\u03ad\u03bb\u03b5\u03c2 \u03c4\u03bf\u03c5\u03c2: \u03c3\u03c5\u03b3\u03c7\u03c1\u03bf\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2, \u03ba\u03b1\u03bd\u03cc\u03bd\u03b5\u03c2, \u03c3\u03ac\u03c1\u03c9\u03c3\u03b7 ISBN \u03ba\u03b1\u03b9 \u03b5\u03b9\u03c3\u03b1\u03b3\u03c9\u03b3\u03ae \u03c9\u03c2 \u03c0\u03c1\u03cc\u03c7\u03b5\u03b9\u03c1\u03bf, \u03bf\u03b9 \u03b1\u03bd\u03b1\u03c1\u03c4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c0\u03bf\u03c5 \u03c0\u03b5\u03c1\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5\u03bd \u03c3\u03c4\u03b7\u03bd \u03bf\u03c5\u03c1\u03ac \u03c4\u03bf\u03c5 Broadcast, \u03bc\u03b5 \u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b5\u03b9\u03c2.\n\n\u039c\u03b9\u03bb\u03ac \u03bc\u03cc\u03bd\u03bf \u03bc\u03b5 \u03c4\u03bf \u03b4\u03b9\u03ba\u03cc \u03c3\u03bf\u03c5 Hub. \u03a4\u03b7 \u03c3\u03c5\u03bd\u03b4\u03ad\u03b5\u03b9\u03c2 \u03bc\u03af\u03b1 \u03c6\u03bf\u03c1\u03ac \u03bc\u03b5 QR \u03b1\u03c0\u03cc \u03c4\u03bf Hub\u00b7 \u03c4\u03b1 \u03ba\u03bb\u03b5\u03b9\u03b4\u03b9\u03ac \u03c4\u03b7\u03c2 \u03bc\u03ad\u03bd\u03bf\u03c5\u03bd \u03c3\u03c4\u03bf Android Keystore \u03ba\u03b1\u03b9 \u03ba\u03ac\u03b8\u03b5 \u03b1\u03af\u03c4\u03b7\u03bc\u03b1 \u03c5\u03c0\u03bf\u03b3\u03c1\u03ac\u03c6\u03b5\u03c4\u03b1\u03b9, \u03bf\u03c0\u03cc\u03c4\u03b5 \u03b4\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ba\u03c9\u03b4\u03b9\u03ba\u03cc\u03c2 \u03bd\u03b1 \u03c0\u03bb\u03b7\u03ba\u03c4\u03c1\u03bf\u03bb\u03bf\u03b3\u03b7\u03b8\u03b5\u03af \u03ae \u03bd\u03b1 \u03b4\u03b9\u03b1\u03c1\u03c1\u03b5\u03cd\u03c3\u03b5\u03b9. \u03a7\u03c9\u03c1\u03af\u03c2 \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03cc, \u03c7\u03c9\u03c1\u03af\u03c2 Firebase, \u03c7\u03c9\u03c1\u03af\u03c2 analytics.\n\n\u03a7\u03c1\u03b5\u03b9\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 Hub \u03bc\u03b5 Site Bridge 1.6.0+ \u03c3\u03b5 HTTPS \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03ba\u03b1\u03c1\u03c4\u03ad\u03bb\u03b1 App \u03b1\u03bd\u03bf\u03b9\u03c7\u03c4\u03ae.\n\n\u039f\u03b9 \u03bd\u03ad\u03b5\u03c2 \u03b5\u03ba\u03b4\u03cc\u03c3\u03b5\u03b9\u03c2 \u03b2\u03b3\u03b1\u03af\u03bd\u03bf\u03c5\u03bd \u03c0\u03c1\u03ce\u03c4\u03b1 \u03c9\u03c2 beta. \u0394\u03c9\u03c1\u03b5\u03ac\u03bd \u03ba\u03b1\u03b9 \u03b1\u03bd\u03bf\u03b9\u03c7\u03c4\u03bf\u03cd \u03ba\u03ce\u03b4\u03b9\u03ba\u03b1 (MIT), \u03b4\u03c9\u03c1\u03b5\u03ac\u03bd \u03b3\u03b9\u03b1 \u03c0\u03ac\u03bd\u03c4\u03b1.\n",
+          "name": "Site Bridge",
+          "summary": "\u0386\u03bd\u03bf\u03b9\u03be\u03b5 \u03c4\u03bf \u03c0\u03b1\u03c1\u03ac\u03b8\u03c5\u03c1\u03bf \u03b5\u03b3\u03b3\u03c1\u03b1\u03c6\u03ae\u03c2 \u03c4\u03c9\u03bd sites \u03c3\u03bf\u03c5 \u03bc\u03b5 \u03c4\u03bf \u03b4\u03b1\u03c7\u03c4\u03c5\u03bb\u03b9\u03ba\u03cc \u03c3\u03bf\u03c5"
+        },
+        "en-US": {
+          "description": "The Site Bridge Hub in your pocket. Site Bridge is a free Noxpress plugin that lets an AI assistant work on your WordPress / WooCommerce sites, but only while a write window is open. This app opens, renews or closes that window per site with your fingerprint, and shows the Hub's log.\n\nOn sites with the Noxpress Book Feed or Broadcast plugins it also has their tabs: sync, rules, ISBN scan and import as a draft, the posts waiting in the Broadcast queue, with notifications.\n\nIt talks only to your own Hub. Pair it once with a QR code from the Hub; its keys stay in the Android Keystore and every request is signed, so there is no password to type or leak. No account, no Firebase, no analytics.\n\nNeeds a Hub with Site Bridge 1.6.0+ over HTTPS and its App tab switched on.\n\nNew versions ship as beta first. Free and open source (MIT), free forever.\n",
+          "icon": "icon_Smg0-iEeAPqezYqxuSzlCFgRD3_nJBp3_AzGdbULxTU=.png",
+          "name": "Site Bridge",
+          "summary": "Open the write window of your WordPress sites with your fingerprint",
+          "whatsNew": "\u2022 New: a notification for every change of a site's write window, without Firebase: opened or closed (from WP admin, the Hub, Claude or the schedule), its end moved, paused, the automatic schedule turned on, off or edited. The phone checks the Hub every 15 minutes (Android's shortest) and once more right after the next planned change, so the schedule's own openings and closings are told on time. Own channel \"Write window\", which can be silenced in Android's \u2026\n\nhttps://github.com/koulaxizis/noxpre"
+        }
+      }
+    }
+  ],
+  "packages": {
+    "tech.noxpress.liveoperator": [
+      {
+        "added": 1794479580000,
+        "apkName": "tech.noxpress.liveoperator_8_93793833.apk",
+        "hash": "93793833c6d23e90d01b3db490c1a4429f4fa46ea12350ffe1f62329de313fd1",
+        "hashType": "sha256",
+        "minSdkVersion": 28,
+        "packageName": "tech.noxpress.liveoperator",
+        "sig": "6709b62d93112b4a1ae762d902a2acf5",
+        "signer": "21441e31a60a89708c6cece649390c1863ec8ca147f08da7399ae7646e02ee4e",
+        "size": 6186310,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.TURN_SCREEN_ON",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "tech.noxpress.liveoperator.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 8,
+        "versionName": "2.0.1"
+      }
+    ],
+    "tech.noxpress.sitebridge": [
+      {
+        "added": 1794479580000,
+        "apkName": "tech.noxpress.sitebridge_12_77e1da92.apk",
+        "hash": "77e1da927288691f2b6370bc0995c64dcac1694bd379ba64d106dff93f906104",
+        "hashType": "sha256",
+        "minSdkVersion": 28,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "tech.noxpress.sitebridge",
+        "sig": "6709b62d93112b4a1ae762d902a2acf5",
+        "signer": "21441e31a60a89708c6cece649390c1863ec8ca147f08da7399ae7646e02ee4e",
+        "size": 22723261,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "tech.noxpress.sitebridge.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 12,
+        "versionName": "1.8.0"
+      }
+    ]
+  }
+}

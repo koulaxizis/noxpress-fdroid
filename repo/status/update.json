@@ -1,0 +1,41 @@
+{
+  "/etc/issue.net": "Ubuntu 26.04.1 LTS",
+  "antiFeatures": {
+    "NonFreeDep": {
+      "apps": [
+        "tech.noxpress.sitebridge"
+      ]
+    }
+  },
+  "apksigner": "/usr/local/lib/android/sdk/build-tools/37.0.0/apksigner",
+  "archivePolicy0": [],
+  "commandLine": [
+    "/home/runner/work/_temp/venv/bin/fdroid update",
+    "--pretty"
+  ],
+  "disabled": [],
+  "endTimestamp": 1794479583899,
+  "failedBuilds": {},
+  "jarsigner": "/usr/bin/jarsigner",
+  "keytool": "/usr/bin/keytool",
+  "needsUpdate": [],
+  "noPackages": [
+    "tech.noxpress.liveoperator",
+    "tech.noxpress.sitebridge"
+  ],
+  "noUpdateCheck": [
+    "tech.noxpress.liveoperator",
+    "tech.noxpress.sitebridge"
+  ],
+  "stages": {
+    "delete_disabled_builds": 1794479579620,
+    "index.make repo": 1794479580842,
+    "prepare_apps repo": 1794479580801,
+    "process_apks": 1794479579620,
+    "read_added_date_from_all_apks": 1794479580801,
+    "remove_apks": 1794479580801,
+    "scan_repo_files": 1794479580800
+  },
+  "startTimestamp": 1794479579000,
+  "subcommand": "update"
+}
